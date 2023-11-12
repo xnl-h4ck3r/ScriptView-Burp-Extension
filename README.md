@@ -1,10 +1,10 @@
-<center><img src="https://raw.githubusercontent.com/xnl-h4ck3r/ScriptView-Burp-Extension/main/ScriptView-Burp-Extension/images/title.png"></center>
+<center><img src="https://github.com/xnl-h4ck3r/ScriptView-Burp-Extension/blob/main/ScriptView/images/title.png"></center>
 
 ## About - v0.1
 
 This is a simple Burp extension that provides an additional tab called `Scripts` for any Response that has any `script` elements in the page. It will only show you the `script` tags, which is just a convenient way of only seeing all the code, which is useful when there are many scripts in a response, especially when there are a lot of inline tags and you just want to go through the code without searching through everything else.
 
-<center><img src="https://raw.githubusercontent.com/xnl-h4ck3r/ScriptView-Burp-Extension/main/ScriptView-Burp-Extension/images/example.png"></center>
+<center><img src="https://github.com/xnl-h4ck3r/ScriptView-Burp-Extension/blob/main/ScriptView/images/example.png"></center>
 
 ## Installation
 
